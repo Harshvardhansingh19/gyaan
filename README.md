@@ -26,7 +26,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/karankulshrestha/gyaansaarthi
+ git clone https://github.com/Harshvardhansingh19/gyaan
 ```
 
 Go to the project directory
