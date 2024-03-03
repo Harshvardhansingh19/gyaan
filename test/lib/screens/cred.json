@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clear-radio-398914",
+  "private_key_id": "738632492ee89a749899d15ff254eeef00d61ef3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClLtZTVL0Zi/mR\nti++R330CKM2O9Q1jh3Ha9yLD1rGZTSX97bLfC4icmP3UEULcOs+HbBU8IyMEFvp\nEJssym26OChU671gRRAFCzF66O0jh7LQauc2JwgxKA7oYCd7R4oGEJAPgOG8c7/R\n/ivytCS2NMJqGZ133znTuL57ihTpSCWzB7Lhy7Y73HCKEipHuj9lsh43FKuF9gDm\nZRGYqmBIUQR/GIQ8gAark483/Y+2hDUsgUnhF0OcqsU2JpGbk9BDttHSWBo/qNhP\ngtJPBFrZuHl46oTslqh0jGy2rIGZUBTWnEruFG4TwOlN6atkrxZtJgglfSzMwzln\ndqju3yVRAgMBAAECggEALJprnD/O+hV+c/amiLJkU997NttL75Qq/VzmRhSE1fqh\nC4IDtYmYKYwK606c/jxlATZiFWWJBg8qylHGHP+iRn0AgwHO9q5fZ4VAvKgl1IjB\nY57iRRCgGSnwcJX6Q0MrhXy2ccFC8zCsNMd11YkIOr0fXCgDiclYo4+Iu/IquFzo\nPwxgQthBKkDk6V61cgGK0MI4aTv9Cd1WsM8iWXbYE3fzuo3TOR1YMsK40rwFne4n\nRPSPjjtMg0bJSP2GOVCKRDFg3Ly0hHlYAGriKlMk8eyf53c5nxePeJKm4+j1kgHq\ntTjyWrHZO7ItD7/IsmPE98zM17+n4MnQ+Z/b7ztWmwKBgQDY0lRyK2usskfUsKSI\nzOh8a5OqzPwHDbdd2yHqfs5iN/Ydz9/EZgZnl70HDl4Wah6LjMQylQaxpowpCojb\ncCIzcYo6VP5/g00QKwkEdQokDLCtnU49VAIRXodluGVtu6XiGS5v2ZfOluch3ONm\n7Osz4Mx/E7cLJAautHfguCl52wKBgQDDB9J1gN1bdYPee9hV7zqDdYdvtjYXcQNt\nGthKAaIMOMIzcRMKFDGiJI4GwaKmuuK0eq+jKKOmrQK36268qPv+lkZpu0kqzwWX\nyR+xfq1YJs5pYNlVLq+ITpK+0EcKriw1oZRe6kWNLES1gwXImzNR1dHC7RDvHYEc\ncGyqf7sTQwKBgQC9WHCGg4S0e7xe8SO+k7MzdH6wWfJ99mx7ejJUJgj1nQlBX5d6\nW96b+NcKonFoAaRLGdL8mUgPO/KKpLh/aZ10b2LXLgJSOMfDptFpIwyIDsz70LPS\nutpTcMms+ysYeRaULIlxBASeVQnjeJLd/2gnFdl/4CepgvyS9Ob7R9hwoQKBgQCO\nzD5jfJwW6B9KmmEW4pd0Q2yL9dz7IutASoSNA08UJcbDhYpMOebxclRvS/38mB9/\nx8ir7QiN9GVmJsKo7g28JWme5ts2tefBcCh9fGQNhDRj4d6fSRSK+AToI3Wws0B5\ncDpDmMKeEAiq4iks7b4QsD7qu0tH2NF88jAOUoG2IwKBgEvg3Mz1ASCxYq/ztjCt\ndVtFDKOSOmm04qpZ1mfIeGKLq2CA2N7fTd4RGN18etsOpraa6LP7aYTU8MKDug6j\nHmg0KkSTJnfNzfJD7liRMGPHQpWhysmQXxnWr+ps/SQ+V2/8PTCPeuex1ydhnpVB\nJpST+S8xa1JdD23wHGFu//Ab\n-----END PRIVATE KEY-----\n",
+  "client_email": "karankulx@clear-radio-398914.iam.gserviceaccount.com",
+  "client_id": "110487473516305896495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/karankulx%40clear-radio-398914.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "short_name": "test",
+    "name": "gyaan",
+    "short_name": "gyaan",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
